@@ -83,7 +83,6 @@ public class SettingsPage extends BasePage {
     By revokeAccess = By.xpath("//input[@id='revoke-access-confirmation']");
 
     public void setRevokeAll() {
-//        properties = ConfigReader.getProperties();
         sendKey(revokeAccess, properties.getProperty("username"));
     }
 
