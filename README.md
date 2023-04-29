@@ -1,8 +1,10 @@
 # GithubCheckFollowers
 
+![Github_logo_PNG8](https://user-images.githubusercontent.com/21973124/221043613-f7ba937c-b8b0-460e-af81-2951e1a541cb.png)
+
 I made a project using Rest Assured and Selenium, which detects those who do not follow you on Github and removes them from the ones you follow.
 
-![Github_logo_PNG8](https://user-images.githubusercontent.com/21973124/221043613-f7ba937c-b8b0-460e-af81-2951e1a541cb.png)
+
 
 ## Used technologies
 
